@@ -45,7 +45,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<link src='https://www.loom.com/share/51918bcd6f52480ab27e0c9e3e9a153f?sid=34483afc-e5d4-4f79-a424-3490d9ca62d6' title='Video Walkthrough'>
+<a src='https://www.loom.com/share/51918bcd6f52480ab27e0c9e3e9a153f?sid=34483afc-e5d4-4f79-a424-3490d9ca62d6'>
+https://www.loom.com/share/51918bcd6f52480ab27e0c9e3e9a153f?sid=34483afc-e5d4-4f79-a424-3490d9ca62d6
+</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom
