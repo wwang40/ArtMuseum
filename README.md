@@ -1,8 +1,8 @@
 # Web Development Project 4 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: William Wang
 
-This web app: **insert description**
+This web app: Image generator using the Harvard Museum API
 
 Time spent: **X** hours spent in total
 
